@@ -3,8 +3,8 @@
 // @namespace github.com/richardmin97/ClickCrittersScripts/
 // @version      0.0.2
 // @description  Adopts all Clickcritters monthlies with their default names
-// @author       Richard Min
 // @author 		 Seiryuu
+// @author       Richard Min
 // @match        http://*.clickcritters.com/adoptables.php*
 // @grant        none
 // ==/UserScript==
